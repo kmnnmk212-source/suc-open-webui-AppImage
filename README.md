@@ -12,4 +12,6 @@ https://huggingface.co/asdgad/22/tree/main
 open-webui-desktop-0.0.1.AppImage
 
 
-from 
+from https://github.com/open-webui/desktop
+
+thank you open-webui
