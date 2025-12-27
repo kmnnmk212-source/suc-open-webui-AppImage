@@ -15,3 +15,21 @@ open-webui-desktop-0.0.1.AppImage
 from https://github.com/open-webui/desktop
 
 thank you open-webui
+
+
+
+
+chmod +x n8n-x86_64.AppImage
+
+
+ ./n8n-x86_64.AppImage
+
+
+ chmod +x filename.AppImage
+
+ 
+ ./filename.AppImage
+
+
+
+ for n8n or openwebui
